@@ -90,7 +90,7 @@ Compute trade sizes, or amount per trade.
 
 `context.trade_size` = `context.capital` * `context.capital_risk_per_trade` / `context.dollar_volatility`
 
-#update-risks
+# update-risks
 Update long, short, and market risks.
 
 # place-stop-orders
